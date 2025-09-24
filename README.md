@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mmroczkowski628@gmail.com**
 
-- ⚡ Fun fact **I am Imperial gymnastics captain, I love to do flips**
+- ⚡ Fun fact **I am Captain of the Imperial gymnastics team, I love to do flips**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
