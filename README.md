@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maks</h1>
-<h3 align="center">Bioengineer @ Imperial College London passionate about building software for healthcare applications</h3>
+<h3 align="center">Bioengineer @ Imperial College London passionate about building software to improve individuals' lives</h3>
 
 - 🌱 I’m currently learning **Cloud Computing and Deep Learning**
 
