@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://maks-mroczkowski.github.io/Maks_Mroczkowski_Portfolio/](https://maks-mroczkowski.github.io/Maks_Mroczkowski_Portfolio/)
 
-- 💬 Ask me about **Medical Image analysis and Deep Learning**
+- 💬 Ask me about **Fullstack and Deep Learning**
 
 - 📫 How to reach me **mmroczkowski628@gmail.com**
 
