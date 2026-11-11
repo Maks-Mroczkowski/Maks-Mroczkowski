@@ -3,7 +3,7 @@
 
 - 🔭 I lead ML, AI and agentic engineering at **EVO Flight Services & EVO Fuels**, and I'm the founding full-stack engineer at **Fenchurch Solutions**, building royalty software for authors and publishers
 
-- 🔬 Right now I'm leading a European supercomputing GPU-hours award to swap our cloud AI for **local LLMs**
+- 🔬 Right now I'm working with a LUMI, a European quantum computer to swap our cloud AI for **local LLMs**
 
 - 📄 I co-authored [Prompt injection attacks on vision-language models for surgical decision support](https://www.nature.com/articles/s44484-026-00014-6), published in *npj Digital Surgery* (2026)
 
