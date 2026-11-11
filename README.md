@@ -1,21 +1,32 @@
 <h1 align="center">Hi 👋, I'm Maks</h1>
-<h3 align="center">Bioengineer @ Imperial College London passionate about building software to improve individuals' lives</h3>
+<h3 align="center">Lead MLOps &amp; AI Engineer at EVO and founding full-stack engineer at Fenchurch Solutions, based in London</h3>
 
-- 🌱 I’m currently learning **Cloud Computing and Deep Learning**
+- 🔭 I lead ML, AI and agentic engineering at **EVO Flight Services & EVO Fuels**, and I'm the founding full-stack engineer at **Fenchurch Solutions**, building royalty software for authors and publishers
 
-- 👨‍💻 All of my projects are available at [https://maks-mroczkowski.github.io/Maks_Mroczkowski_Portfolio/](https://maks-mroczkowski.github.io/Maks_Mroczkowski_Portfolio/)
+- 🔬 Right now I'm leading a European supercomputing GPU-hours award to swap our cloud AI for **local LLMs**
 
-- 💬 Ask me about **Fullstack and Deep Learning**
+- 📄 I co-authored [Prompt injection attacks on vision-language models for surgical decision support](https://www.nature.com/articles/s44484-026-00014-6), published in *npj Digital Surgery* (2026)
 
-- 📫 How to reach me **mmroczkowski628@gmail.com**
+- 🎓 BSc Engineering & Business, **Imperial College London** (2023 to 2026)
 
-- ⚡ Fun fact **I am Captain of the Imperial gymnastics team, I love to do flips**
+- 👨‍💻 My story and projects: [maks-mroczkowski.github.io/Maks_Mroczkowski_Portfolio](https://maks-mroczkowski.github.io/Maks_Mroczkowski_Portfolio/)
+
+- 💬 Ask me about **MLOps, LLM agents and full-stack AI products**
+
+- 📫 How to reach me: **mmroczkowski628@gmail.com**
+
+- ⚡ Fun fact: I captained Imperial's gymnastics team, and I love doing flips
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/maksymilian-mroczkowski-388434332" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maksymilian-mroczkowski-388434332" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maksymilian-mroczkowski-388434332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/maksymilian-mroczkowski-388434332" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and tools:</h3>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,ts,js,django,fastapi,react,nodejs,express,angular,graphql&perline=10" alt="Python, TypeScript, JavaScript, Django, FastAPI, React, Node.js, Express, Angular, GraphQL" />
+<br />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,kafka,aws,terraform,docker,kubernetes,supabase,vercel&perline=10" alt="PyTorch, scikit-learn, Kafka, AWS, Terraform, Docker, Kubernetes, Supabase, Vercel" />
+</p>
 
+<p align="left">Also: SQL, SQLAlchemy, REST APIs, pandas, NumPy, Apache Spark, MLflow, Evidently AI, Hugging Face, LangChain and LangGraph</p>
